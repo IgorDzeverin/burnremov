@@ -2,12 +2,15 @@
 *Burnaby's technique to remove the effect of isometric size from multivariate morphometric data (MATLAB version)*
 
 *Description*
+
 Burnaby's technique allows to remove the effect of isometric size from multivariate morphometric data by projecting the data points onto a plane orthogonal to a size-related axis (e.g., isometric size vector or PC1).
 
 *Details*
+
 The formulations are from McCOY et al 2006. Default coefficients for isometric size vector are from JOLICOEUR 1963 and JOLICOEUR 1984.
 
 *Author and Date*
+
 Igor Dzeverin, 2010-05-07
 
 *References*
