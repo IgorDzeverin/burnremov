@@ -11,7 +11,7 @@ The formulations are from McCOY et al 2006. Default coefficients for isometric s
 
 *Author and Date*
 
-Igor Dzeverin, 2010-05-07
+Igor Dzeverin, 07-May-2010
 
 *References*
 
